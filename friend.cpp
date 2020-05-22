@@ -26,5 +26,6 @@ void Circle::read()
 	cout << "x: "; cin >> x;
 	cout << "y: "; cin >> y;
 	cout << "r: "; cin >> r;
+	cout << "u";
 
 }
